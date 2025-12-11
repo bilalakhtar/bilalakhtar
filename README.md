@@ -24,13 +24,35 @@ I'm a multidisciplinary engineer with hands-on experience in:
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, SQL, Bash  
-**ML/AI:** scikit-learn, pandas, LLMs, Hugging Face, OpenAI  
-**Cloud:** AWS (EC2, S3, IAM), Docker  
-**Security:** Nessus, Nmap, Wireshark, ISO 27001, SOC 2  
-**Automation:** Make.com, n8n, Power Automate  
-**Tools:** Git, VS Code, Linux, Jupyter
+## 🧠 Technical Skills
+
+### ⚡ Agentic AI & LLM Systems
+- Multi-Agent Architectures  
+- Tool Integration (custom & built-in)  
+- Prompt Engineering & System Design  
+- RAG Pipelines (Vector DBs, Embeddings)  
+- LangChain / LangGraph Patterns  
+- LLMs (Hugging Face, OpenAI)
+
+### 📊 Data & Machine Learning
+- Python, SQL, Pandas, NumPy  
+- ML & DL (CNNs, Time-Series Modeling)  
+- scikit-learn, Transformers, Evaluation Metrics  
+- Power BI & Data Visualization  
+- FastAPI, Streamlit (Model Deployment)
+
+### 🛠️ DevOps, Cloud & Monitoring
+- Docker, Containerization  
+- AWS (EC2, S3, IAM)  
+- Prometheus, Logging & Monitoring  
+- Git, Linux, Bash, VS Code, Jupyter  
+
+### 🔐 Security & Compliance
+- Nessus, Nmap, Wireshark  
+- ISO 27001, SOC 2 (controls & documentation)  
+
+### 🤖 Automation
+- Make.com, n8n, Power Automate  
 
 ---
 
