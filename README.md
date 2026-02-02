@@ -57,9 +57,11 @@ I'm a multidisciplinary engineer with hands-on experience in:
 ---
 
 ## 🎓 Certifications
-- Data Science & AI — atomcamp  
+- AI Automation — atomcamp
+- Data Science & AI — atomcamp
 - AWS Cloud Practitioner  
-- MS Information Security — COMSATS  
+- MS Information Security — Air University
+- BS Telecommunication & Networking — COMSATS University  
 - Cybersecurity (ISC2 CC – ongoing)
 
 ---
