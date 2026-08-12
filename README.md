@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Bilal Akhtar  
 ### Data Science • AI/ML • Information Security • Cloud • Automation
-<!--
+
 I'm a multidisciplinary engineer with hands-on experience in:  
 - 🛡️ **Incident Response, Vulnerability Management, SIEM, Endpoint Security**  
 - 🤖 **Machine Learning, NLP, Automation (Make.com, n8n), LLM Agents**  
 - ☁️ **AWS Cloud Engineering, DevOps Tools, Docker, Terraform**  
 - ✈️ **Avionics, UAVs, Ground Control Systems**
-
+<!--
 ---
 
 ## 🚀 Featured Projects
